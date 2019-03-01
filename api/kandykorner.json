@@ -1,0 +1,81 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jessica Younker"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Circle Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "10101 Binary Court"
+    }
+  ],
+  "candies": [
+    {
+      "id": 1,
+      "name": "Chocolate Gummies",
+      "img": "https://nuts.com/images/auto/801x534/assets/3fb630c04435b7b5.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Toblerone",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/71%2BwAJTmvAL._SX522_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Gummi Bears",
+      "img": "https://www.quill.com/is/image/Quill/s0389481_s7?$img400$"
+    }
+  ],
+  "candyTypeLookup": [
+    {
+      "id": 1,
+      "candyId": 1,
+      "typeId": 1
+    },
+    {
+      "id": 2,
+      "candyId": 1,
+      "typeId": 2
+    },
+    {
+      "id": 3,
+      "candyId": 2,
+      "typeId": 1
+    },
+    {
+      "id": 4,
+      "candyId": 3,
+      "typeId": 2
+    }
+  ],
+  "candyTypes": [
+    {
+      "id": 1,
+      "name": "Chocolate"
+    },
+    {
+      "id": 2,
+      "name": "Soft Candy"
+    }
+  ]
+}
